@@ -6,7 +6,7 @@
 
 I am a Senior Cloud Engineer with over 15 years of experience in the technology industry. I specialize in the design, modernization, and migration of cloud-based solutions, with a strong focus on platforms like AWS and Azure. My technical skills span a wide range of technologies, including Kubernetes, Terraform, and FinOps principles, enabling me to drive significant operational efficiency and cost reductions.
 
-I am passionate about developing scalable, secure, and high-performance solutions. My expertise extends to programming in languages such as .NET, Python, Go, JavaScript, and HCL, and I have a strong background in both relational and NoSQL databases. As a DevSecOps advocate, I ensure that security is integral to every project from the start.
+I am passionate about developing scalable, secure, and high-performance solutions. My expertise extends to programming in languages such as .NET, Python, Go, JavaScript, and Terraform (HCL), and I have a strong background in both relational and NoSQL databases. As a DevSecOps advocate, I ensure that security is integral to every project from the start.
 
 ---
 
