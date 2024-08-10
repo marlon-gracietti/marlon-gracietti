@@ -1,3 +1,14 @@
+---
+title: "Getting Started with AWS Elastic Beanstalk"
+date: 2024-08-10 12:00:00 +0000
+categories: [AWS, Cloud]
+tags: [AWS, Beanstalk, DevOps, Cloud]
+pin: true
+comments: true
+toc: true
+author: Marlon Gracietti de Amorim
+---
+
 ## Introduction
 
 AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with popular programming languages such as Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. In this post, we'll explore how to get started with AWS Beanstalk and understand its key features.
