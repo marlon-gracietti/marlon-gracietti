@@ -1,61 +1,69 @@
-# Chirpy Starter
+# Hi there 👋, I'm Marlon Gracietti de Amorim
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+---
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+### 🧑‍💻 About Me
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+I am a Senior Cloud Engineer with over 15 years of experience in the technology industry. I specialize in the design, modernization, and migration of cloud-based solutions, with a strong focus on platforms like AWS and Azure. My technical skills span a wide range of technologies, including Kubernetes, Terraform, and FinOps principles, enabling me to drive significant operational efficiency and cost reductions.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+I am passionate about developing scalable, secure, and high-performance solutions. My expertise extends to programming in languages such as .NET, Python, Go, JavaScript, and HCL, and I have a strong background in both relational and NoSQL databases. As a DevSecOps advocate, I ensure that security is integral to every project from the start.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+---
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### 🛠️ Core Skills
 
-## Prerequisites
+- **Cloud Engineering**: AWS, Azure, Terraform, Kubernetes, FinOps
+- **Programming Languages**: .NET, Python, Go, JavaScript, HCL
+- **Database Management**: MSSQL, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+- **DevOps & CI/CD**: Azure CI/CD, GitHub Actions, Jenkins, Docker, NGINX
+- **Security**: DevSecOps, Checkmarx, AWS IAM, Data Encryption
+- **Project Management**: Agile, Scrum, Team Leadership
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+---
 
-## Installation
+### 🌟 Key Achievements
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+- **Cloud Cost Optimization**: Reduced operational costs by 30% through FinOps principles.
+- **System Efficiency**: Improved system efficiency by 25% and strengthened security measures during a critical cloud migration project.
+- **Performance Improvement**: Led a migration to AWS Beanstalk, resulting in 22% performance improvements and 9% cost savings.
+- **DevOps Excellence**: Designed and implemented a robust CI/CD pipeline integrating various tools to ensure smooth and efficient deployments.
 
-Then clone it to your local machine and run:
+---
 
-```console
-$ bundle
-```
+### 🌐 Connect with Me
 
-## Usage
+<div align="center">
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+[![LinkedIn Badge](https://img.shields.io/badge/-Marlon%20Gracietti%20Amorim-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgamorim/)](https://www.linkedin.com/in/mgamorim)
 
-## Contributing
+</div>
 
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
+---
 
-## License
+### 📊 GitHub Stats
 
-This work is published under [MIT][mit] License.
+<div align="center">
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+![Marlon Gracietti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgracietti&show_icons=true&theme=dark)
+
+<!-- Uncomment this line if you'd like to show top languages -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
+-->
+
+</div>
+
+---
+
+### 🏅 Certifications
+
+- **AWS Certified Cloud Practitioner** - Amazon Web Services (AWS)
+- **AWS Cloud Quest: Solutions Architect** - Amazon Web Services (AWS)
+- **nopCommerce Certified Developer** - nopCommerce
+- **Certified Delphi Developer** - Embarcadero Technologies
+
+---
+
+### 📧 Get in Touch
+
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/mgamorim) for any collaboration, job opportunities, or just to connect!
