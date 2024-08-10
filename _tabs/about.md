@@ -3,10 +3,10 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-# {: .prompt-tip }
-
+<!--
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+-->
 
 ### About Me
 Hello! I’m Marlon Gracietti de Amorim, a Senior Cloud Engineer and Software Architect with over 15 years of experience in the technology industry. I’m based in Blumenau, Santa Catarina, Brazil.
