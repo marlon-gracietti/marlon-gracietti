@@ -8,8 +8,7 @@ order: 4
 {: .prompt-tip }
 -->
 
-### About Me
-Hello! I’m Marlon Gracietti de Amorim, a Senior Cloud Engineer and Software Architect with over 15 years of experience in the technology industry. I’m based in Blumenau, Santa Catarina, Brazil.
+Hello! I’m Marlon Gracietti de Amorim, a Senior Cloud Engineer and Software Architect with over 15 years of experience in the technology industry. I’m based in Santa Catarina, Brazil.
 
 My expertise lies in designing, modernizing, and migrating cloud-based solutions, primarily focusing on AWS and Azure platforms. I specialize in automating and optimizing cloud infrastructure using tools like Kubernetes and Terraform, always aiming to deliver scalable, secure, and efficient solutions.
 
