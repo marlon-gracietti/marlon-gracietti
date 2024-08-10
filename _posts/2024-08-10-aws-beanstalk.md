@@ -6,7 +6,7 @@ tags: [AWS, Beanstalk, DevOps, Cloud]
 pin: true
 comments: true
 toc: true
-author: marlon_gracietti_amorim
+author: marlon
 ---
 
 ## Introduction
