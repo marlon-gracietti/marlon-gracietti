@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Marlon # the main title
+title: Marlon Gracietti # the main title
 
 # tagline: A text-focused Jekyll theme # it will display as the sub-title
 tagline: Crafting Scalable, Secure Cloud Solutions with a Passion for Innovation
@@ -40,10 +40,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/mgracietti # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/marlon-gracietti
 
 # Site Verification Settings
 webmaster_verifications:
