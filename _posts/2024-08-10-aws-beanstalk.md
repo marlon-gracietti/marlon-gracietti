@@ -3,7 +3,7 @@ title: "Getting Started with AWS Elastic Beanstalk"
 description: An introduction to AWS Elastic Beanstalk, including key features, deployment steps, and advantages.
 author: Marlon
 date: 2024-08-10 12:00:00 +0000
-categories: [AWS, Cloud]
+categories: [AWS, Compute]
 tags: [AWS, Beanstalk, DevOps, Cloud]
 pin: true
 comments: true
