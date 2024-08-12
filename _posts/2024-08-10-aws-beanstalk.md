@@ -1,12 +1,19 @@
 ---
 title: "Getting Started with AWS Elastic Beanstalk"
+description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+author: marlon
 date: 2024-08-10 12:00:00 +0000
 categories: [AWS, Cloud]
 tags: [AWS, Beanstalk, DevOps, Cloud]
 pin: true
 comments: true
 toc: true
-author: marlon
+math: false
+mermaid: false
+image:
+  path: /commons/devices-mockup.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 ## Introduction
