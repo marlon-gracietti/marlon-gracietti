@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://mgracietti.github.io', note that it does not end with a '/'.
-url: "https://mgracietti.github.io"
+url: "https://marlon-gracietti.netlify.app"
 
 github:
   username: mgracietti # change to your github username
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://marlon-gracietti.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/profile.jpg"
