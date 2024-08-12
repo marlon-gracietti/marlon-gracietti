@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Marlon Gracietti # the main title
+title: Marlon Gracietti Amorim # the main title
 
 # tagline: A text-focused Jekyll theme # it will display as the sub-title
 tagline: Crafting Scalable, Secure Cloud Solutions with a Passion for Innovation
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Marlon Gracietti de Amorim
+  name: Marlon Gracietti Amorim
   email: amorim.mga@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
