@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aae73aa8-ab98-4498-a464-b9fa6e3818b0/deploy-status)](https://app.netlify.com/sites/marlon-gracietti/deploys)
 # Hi there 👋, I'm Marlon Gracietti de Amorim
 
 ---
