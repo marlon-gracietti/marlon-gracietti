@@ -50,11 +50,11 @@ I am passionate about developing scalable, secure, and high-performance solution
 
 <div align="center">
 
-![Marlon Gracietti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgracietti&show_icons=true&theme=dark)
+![Marlon Gracietti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlon-gracietti&show_icons=true&theme=dark)
 
 <!-- Uncomment this line if you'd like to show top languages -->
 <!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-gracietti&theme=dark)](https://github.com/DevPraxis/gaizer-core)
 -->
 
 </div>
