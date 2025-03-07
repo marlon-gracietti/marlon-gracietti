@@ -13,7 +13,7 @@ I am passionate about developing scalable, secure, and high-performance solution
 
 ### 🛠️ Core Skills
 
-- **Cloud Engineering**: AWS, Azure, Terraform, AWS CDK (Python) Kubernetes, FinOps
+- **Cloud Engineering**: AWS, Azure, Terraform, AWS CDK (Python), Kubernetes, FinOps
 - **Programming Languages**: .NET, Python, Go, JavaScript, HCL
 - **Database Management**: MSSQL, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
 - **DevOps & CI/CD**: Azure CI/CD, GitHub Actions, Jenkins, Docker, NGINX
